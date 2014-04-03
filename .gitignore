@@ -1,0 +1,6 @@
+list_coarse
+list_fine
+hashtable_naive
+hashtable_smart
+*.dSYM
+*.class
